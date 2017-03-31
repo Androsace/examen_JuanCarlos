@@ -1,0 +1,1 @@
+El objetivo de este proyecto es demostrar mis conocimientos de GIT mediante la realización de un examen
